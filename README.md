@@ -1,8 +1,5 @@
 # What's your favorite movie?
 
-## List of Movies
-- Spider-Man  
-- Harry Potter  
-- The Terminator  
+## List of Movies  
+- Harry Potter    
 - Back to the Future  
-- Your Name
