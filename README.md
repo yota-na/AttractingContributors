@@ -1,5 +1,3 @@
-# Please indicate your favourite places to eat near NAIST.
+# what is your favorite place for rest ? / あなたにとって気持ちが最も安らぐ場所はどこですか。
 
 # List of place
-- mamemame saisai
-- Gusto
