@@ -1,5 +1,11 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please indicate your smartphone's brand/manufacturer.
 
 # List of place
-- mamemame saisai
-- Gusto
+- Apple (iPhone)
+- Google (Pixel)
+- Samsung (Galaxy)
+- Sony (Xperia)
+- Xiaomi
+- Sharp (AQUOS)
+- Oppo
+- etc.
