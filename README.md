@@ -1,5 +1,5 @@
 # Please indicate your favorite place to go by train or car or motorcycle in Kansai and Tokai area.
-（関西地方か東海地方で、電車か車やバイクで行くのにおすすめの場所を教えてください）
+（関西地方か東海地方で、電車や車、バイクで行くのにおすすめの場所を教えてください）
 
 # List of place
 - Mt. Wakakusa (Nara) / 若草山（奈良県）
