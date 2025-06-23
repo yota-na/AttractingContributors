@@ -1,10 +1,10 @@
-# What's your favorite game you want to recommend?
+# What's your favorite influencer in SNS you want to recommend?
 
-I wonder to know what kind of games you are playing now because I don't know the trends.
+I wonder to know. Feel free to recommend to me! 
 
-### Any kinds of games are welcome! whatever games on switch, PS4/5,PC games, mobile games,etc,.
+### Any kinds are welcome! whatever gamers, travellers, readers, dancers, etc,.
 
-# List of games
+# List of influencers
 - 
 - 
 - 
