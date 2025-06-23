@@ -7,3 +7,6 @@
 - Wakayama
 - Umeda (Osaka)
 - Yoshinoyama
+- Namba (Osaka)
+- Kobe
+- osaka
