@@ -8,7 +8,7 @@ Example
 - Google Pixel 9
 - iPhone SE
 - iPhone XR
--
+- iphone 15
 -
 -
 -
