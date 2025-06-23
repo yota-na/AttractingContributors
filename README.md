@@ -1,5 +1,5 @@
 # Please indicate your favorite game.
 
-# List of place
+# List of game
 - valorant
 - apex
