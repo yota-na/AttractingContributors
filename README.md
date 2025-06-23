@@ -3,3 +3,4 @@
 # List of place(It doesn't matter if it's the same）
 - Russia
 - Italy
+- New Zealand
