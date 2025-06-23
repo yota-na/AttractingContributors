@@ -3,3 +3,4 @@
 # List of place
 - my hometown, Toyama
 - USJ
+- Miyakojima, Okinawa
