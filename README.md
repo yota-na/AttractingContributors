@@ -1,4 +1,4 @@
-# If you were to recommend a smartphone to a friend, which model would you suggest(Please indicate the specific model of your smartphone)
+# What is your favorite smartphone?
 
 # List
 - iPhone 12
