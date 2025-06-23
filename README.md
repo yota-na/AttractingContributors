@@ -4,4 +4,5 @@
 # List of place
 - 淡路夢舞台（兵庫県）
 - Kyotanabe (Kyoto) / 京田辺 (京都府)
+- Wakayama
 
