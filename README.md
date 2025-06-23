@@ -1,5 +1,5 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please indicate your favourite cities in Japan.
 
 # List of place
-- mamemame saisai
-- Gusto
+- Nara
+- Osaka
