@@ -2,4 +2,4 @@
 
 # List of place
 - my hometown, Toyama
-- my bed, dorm
+- USJ
