@@ -1,6 +1,6 @@
 # Please indicate your smartphone's brand/manufacturer.
 
-# List of place
+# Example
 - Apple (iPhone)
 - Google (Pixel)
 - Samsung (Galaxy)
