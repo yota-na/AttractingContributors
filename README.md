@@ -1,5 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# Which country do yo want to travel?　✈️
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of place　（It doesn't matter if it's the same）
+- 
