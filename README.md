@@ -1,8 +1,10 @@
 # What is your favorite smartphone?
-
-# List
+Example
 - iPhone 12
 - Google Pixel 7a
+
+# List
+
 -
 -
 -
