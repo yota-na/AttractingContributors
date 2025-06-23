@@ -6,7 +6,7 @@ Example
 # List
 - Galaxy S25 Ultra
 - Google Pixel 9
--
+- iPhone SE
 -
 -
 -
