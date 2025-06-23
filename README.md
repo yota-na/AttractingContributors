@@ -10,3 +10,4 @@ I wonder to know. Feel free to recommend to me!
 - ishowspeed
 - MrBeast
 - HRK
+- Bear Grylls
