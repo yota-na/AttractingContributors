@@ -2,3 +2,4 @@
 
 # List of place(It doesn't matter if it's the same）
 - Italy
+- New Zealand
