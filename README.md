@@ -7,7 +7,7 @@ Example
 - Galaxy S25 Ultra
 - Google Pixel 9
 - iPhone SE
--
+- iPhone XR
 -
 -
 -
