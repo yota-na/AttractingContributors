@@ -1,11 +1,16 @@
-# Please indicate your smartphone's brand/manufacturer.
+# If you were to recommend a smartphone to a friend, which model would you suggest
+# Please indicate the specific model of your smartphone
 
-# Example
-- Apple (iPhone)
-- Google (Pixel)
-- Samsung (Galaxy)
-- Sony (Xperia)
-- Xiaomi
-- Sharp (AQUOS)
-- Oppo
-- etc.
+# List
+-iPhone 12
+-Google Pixel 7a
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
