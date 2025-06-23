@@ -4,7 +4,7 @@ Example
 - Google Pixel 7a
 
 # List
-
+- Galaxy S25 Ultra
 - Google Pixel 9
 -
 -
