@@ -4,3 +4,5 @@
 - my hometown, Toyama
 - USJ
 - Miyakojima, Okinawa
+- Futon
+
