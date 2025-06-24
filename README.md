@@ -10,3 +10,4 @@
 - Namba (Osaka)
 - Kobe
 - osaka
+- Totsukawa mura (Nara)
