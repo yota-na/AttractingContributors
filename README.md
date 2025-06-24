@@ -6,3 +6,4 @@
 - Miyakojima, Okinawa
 - Futon
 - Cafe
+- nara park
