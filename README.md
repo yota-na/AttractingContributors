@@ -2,6 +2,6 @@
 
 # List of Anime
 - HunterxHunter : Hisoka
-- 
+- Assassination Classroom: Nagisa
 -
 -
