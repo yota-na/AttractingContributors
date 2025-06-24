@@ -1,5 +1,3 @@
-# Please indicate your favourite places to eat near NAIST.
+# Did you have morning today? Please answer Yes or No.
 
 # List of place
-- mamemame saisai
-- Gusto
