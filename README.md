@@ -11,3 +11,4 @@
 - Kobe
 - osaka
 - Arima Onsen
+- Mt.Koya
