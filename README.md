@@ -1,5 +1,5 @@
-# Please indicate your favourite places to eat near NAIST.
-
+# Please tell me about your favorite alphabet.
+example 
+-w
 # List of place
-- mamemame saisai
-- Gusto
+
