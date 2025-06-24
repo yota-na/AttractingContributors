@@ -6,3 +6,4 @@
 - New Zealand
 - UK
 - South Korea
+- Japan
