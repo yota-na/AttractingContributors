@@ -1,4 +1,4 @@
-## What's your favorite influencer/youtuber/instagramer in SNS you want to recommend? あなたが好きでおすすめしたいSNSのインフルエンサー/ユーチューバー/インスタグラマーは誰ですか？
+## What's your favorite influencer/youtuber/instagrammer in SNS you want to recommend? あなたが好きでおすすめしたいSNSのインフルエンサー/ユーチューバー/インスタグラマーは誰ですか？
 
 I wonder to know. Feel free to recommend to me! It's okay to repeat the same answer.  :hugs:	
 
