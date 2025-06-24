@@ -10,4 +10,7 @@
 - Namba (Osaka)
 - Kobe
 - osaka
-- Moriguch (Osaka)
+- Moriguchi (Osaka)
+- Shiga / Biwako
+- Arima Onsen
+- Mt.Koya
