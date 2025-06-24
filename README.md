@@ -5,4 +5,4 @@
 - USJ
 - Miyakojima, Okinawa
 - Futon
-
+- Cafe
