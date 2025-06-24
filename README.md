@@ -5,4 +5,5 @@
 - Italy
 - New Zealand
 - UK
-- JAPAN!!
+- South Korea
+- Japan
