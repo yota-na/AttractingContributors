@@ -10,5 +10,6 @@
 - Namba (Osaka)
 - Kobe
 - osaka
+- Shiga / Biwako
 - Arima Onsen
 - Mt.Koya
