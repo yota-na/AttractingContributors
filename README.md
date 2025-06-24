@@ -7,3 +7,4 @@
 - UK
 - South Korea
 - Japan
+- Norway
