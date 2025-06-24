@@ -6,6 +6,7 @@
 - grilled chicken
 - pasta
 - pasta
+- sushi
 - fish
 - Pot-au-feu
 - pork fried with ginger
