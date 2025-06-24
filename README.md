@@ -15,3 +15,4 @@
 - Shiga / Biwako
 - Arima Onsen
 - Mt.Koya
+- Sakae (Nagoya)
