@@ -10,4 +10,5 @@
 - Namba (Osaka)
 - Kobe
 - osaka
+- Arima Onsen
 - Mt.Koya
