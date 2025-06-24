@@ -10,6 +10,7 @@
 - Namba (Osaka)
 - Kobe
 - osaka
+- Totsukawa mura (Nara)
 - Moriguchi (Osaka)
 - Shiga / Biwako
 - Arima Onsen
