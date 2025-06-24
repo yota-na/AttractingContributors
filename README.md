@@ -8,6 +8,7 @@
 - South Korea
 - Japan
 - Norway
+- USA
 - Germany
 - Madagascar
 
