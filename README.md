@@ -9,3 +9,5 @@ example
 - cafe au lait
 - Water
 - Ginger ale
+- Apple juice
+
