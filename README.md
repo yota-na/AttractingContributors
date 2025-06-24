@@ -4,3 +4,4 @@
 - Spotify
 - Google Chrome
 - Safari
+- ChatGPT
