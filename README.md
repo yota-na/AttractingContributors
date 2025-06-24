@@ -1,5 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please indicate your favourite filling for rice balls.
 
 # List of place
-- mamemame saisai
-- Gusto
+- tuna mayonnaise
