@@ -9,3 +9,6 @@
 - Japan
 - Norway
 - USA
+- Germany
+- Madagascar
+
