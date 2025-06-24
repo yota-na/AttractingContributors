@@ -1,5 +1,6 @@
-# Please indicate your favourite places to eat near NAIST.
+#What apps do you use most often?
 
-# List of place
-- mamemame saisai
-- Gusto
+#Sample Ideas
+Spotify
+Google Chrome
+Safari
