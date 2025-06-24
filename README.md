@@ -8,4 +8,4 @@ example
 - tea
 - cafe au lait
 - Water
-- 
+- Apple juice
