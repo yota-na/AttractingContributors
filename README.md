@@ -1,5 +1,7 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please add one of your favorite Anime and Character
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of Anime
+- HunterxHunter : Hisoke
+- 
+-
+-
