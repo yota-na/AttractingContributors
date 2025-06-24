@@ -10,3 +10,4 @@
 - Namba (Osaka)
 - Kobe
 - osaka
+- Mt.Koya
