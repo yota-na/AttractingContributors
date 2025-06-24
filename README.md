@@ -11,6 +11,6 @@ Example
 - iphone 15
 - iPhone 16
 - Xperia 10 III
--
+- OPPO A3 5G
 -
 - iphone 13
