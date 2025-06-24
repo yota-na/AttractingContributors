@@ -10,7 +10,7 @@ Example
 - iPhone XR
 - iphone 15
 - iPhone 16
--
+- Xperia 10 III
 -
 -
 - iphone 13
