@@ -9,4 +9,5 @@
 - Disney, my dream home
 - nara park
 - my home
+- Indoor pool
 
