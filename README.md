@@ -4,5 +4,5 @@
 - HunterxHunter : Hisoka
 - Assassination Classroom: Nagisa
 - JuJutsuKaisen Hakari
--
--
+- Vagabond: Musashi
+
