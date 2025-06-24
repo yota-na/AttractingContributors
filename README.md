@@ -8,4 +8,5 @@
 - Cafe
 - Disney, my dream home
 - nara park
+- my home
 
