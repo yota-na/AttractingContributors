@@ -3,6 +3,7 @@
 ## List of Movies  
 - Harry Potter    
 - Back to the Future
+- tenet 
 - The Mummy
 - Good Will Hunting
 - The Boy in the Striped Pajamas
