@@ -3,9 +3,9 @@
 ## List of Movies  
 - Harry Potter    
 - Back to the Future
+- The Mummy
 - Good Will Hunting
 - The Boy in the Striped Pajamas
 - The wind rises
 - Jurassic Park
 - STAR WARS
-
