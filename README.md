@@ -15,3 +15,5 @@
 -Chickencurry and Rice
 - Pasta
 - Miso soup
+- curry
+- noodles
