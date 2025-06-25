@@ -2,4 +2,5 @@
 
 # List of filling for rice balls
 - tuna mayonnaise
+- kelp
 - syake!!
