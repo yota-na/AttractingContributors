@@ -3,5 +3,6 @@
 ## List of Movies  
 - Harry Potter    
 - Back to the Future
+- The wind rises
 - Jurassic Park
 - STAR WARS
