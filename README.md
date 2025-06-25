@@ -14,5 +14,6 @@
 - pork fried with ginger
 -Chickencurry and Rice
 - Pasta
+- Miso soup
 - curry
 - noodles
