@@ -4,3 +4,10 @@
 - Nara
 - Osaka
 - Takamtsu
+- Gifu
+- Kyoto
+- Kobe
+- Tokyo
+- Kagoshima
+- Kobe
+- Naha
