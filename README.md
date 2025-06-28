@@ -3,3 +3,4 @@
 # List of place
 - Nara
 - Osaka
+- Naha
