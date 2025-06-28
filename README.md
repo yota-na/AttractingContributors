@@ -4,3 +4,4 @@
 - Nara
 - Osaka
 - Kobe
+- Naha
