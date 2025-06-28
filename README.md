@@ -4,3 +4,4 @@
 - valorant
 - apex
 - Monster Hunter 
+- Othello
