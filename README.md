@@ -3,4 +3,5 @@
 # List of place
 - Nara
 - Osaka
+- Kobe
 - Naha
