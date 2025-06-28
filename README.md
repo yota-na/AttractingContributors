@@ -3,6 +3,7 @@
 # List of place
 - Nara
 - Osaka
+- Takamtsu
 - Gifu
 - Kyoto
 - Kobe
