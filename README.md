@@ -4,3 +4,5 @@
 - valorant
 - apex
 - Mario Kart
+- Monster Hunter 
+- Othello
