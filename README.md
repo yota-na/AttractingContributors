@@ -3,13 +3,7 @@
 # List of place
 - Nara
 - Osaka
-
-
-
-
-
-
-
+- Tokyo
 - Kagoshima
 - Kobe
 - Naha
