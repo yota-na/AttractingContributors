@@ -4,3 +4,6 @@
 - valorant
 - apex
 - Read Dead Redemption 2
+- Mario Kart
+- Monster Hunter 
+- Othello
