@@ -18,3 +18,5 @@
 - curry
 - noodles
 - pizza
+- sushi
+
