@@ -17,4 +17,6 @@
 - Miso soup
 - curry
 - noodles
+- pizza
 - sushi
+
